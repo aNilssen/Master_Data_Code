@@ -1,0 +1,7 @@
+,vessel_type,Condition,Speed (knots),FO (mt/day)
+0,tanker,Laden,13.5,33.0
+1,tanker,Ballast,14.0,31.0
+2,bulker,Laden,13.5,33.0
+3,bulker,Ballast,14.0,31.0
+4,combi,Laden,13.5,36
+5,combi,Ballast,14.0,34
